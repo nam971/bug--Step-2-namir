@@ -1,0 +1,12 @@
+Step 2 :
+1. Créer la classe Db.php qui va permetrre d'effectuer les requêtes SQL
+Fonction Connection
+Fonction Query générique
+Fonction Select
+Fonction Insert
+Fonction Update
+Fonction Delete
+2. Tester les nouvelles fonctionnalités avec les fonctions de la classe Rest.js
+
+3. git Commit Step 2 + Merge sur master
+4. Nouvelle Branche git Step 3 pour la prochaine étape
